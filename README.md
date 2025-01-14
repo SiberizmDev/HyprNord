@@ -70,7 +70,7 @@ Let's install our software:
 yay -S nm-connection-editor cava mpd mpv vlc okular libreoffice-fresh hyprland waybar anytype grimblast sddm brightnessctl playerctl hyprlock pamixer rofi-wayland wlogout hyprswitch rustup nwg-dock nwg-drawer wf-recorder btop zsh oh-my-zsh-powerline-theme-git ark unrar zip unzip pavucontrol pavucontrol-qt xdg-desktop-portal-wlr neovim vim nano git wget mpvpaper dunst nemo kvantum kvantum-qt5 kate appimagelauncher-bin noto-fonts-emoji wl-clipboard xfce4-appfinder wofi catfish zen-browser kitty polkit-gnome gnome-keyring ntfs-3g cliphist qt5ct qt5 qt6 qt6ct plasma lxappearance tesseract-data-tur tesseract-data-eng tesseract-data-rus visual-studio-code-bin jdk-openjdk discord ferdium-bin bitwarden flatpak gimp meld krita kitty kdenlive inkscape konsole neofetch go python-pip hyprpicker syncthing filezilla spotify qbittorrent obs-studio wine wlogout ente-auth-bin kdeconnect thunderbird rofimoji localsend-bin apache php php-apache phpmyadmin mariadb
 ```
 
-# Install PHP Server
+# Install PHP Server (Completely optional. I wrote for myself)
 
 ## HTTPD Edit
 
